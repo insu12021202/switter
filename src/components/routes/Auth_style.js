@@ -59,6 +59,10 @@ const SocialButton = styled.button`
   padding: 10px;
   margin: 10px;
   margin-top: 20px;
+  &:hover {
+    background-color: whitesmoke;
+    color: #0b0409;
+  }
 `;
 
 const FooterSpan = styled.span`

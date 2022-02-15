@@ -30,6 +30,7 @@ const SingInSpan = styled.span`
   font-size: 18px;
   margin-top: 20px;
   color: whitesmoke;
+  cursor: pointer;
 `;
 
 export { Form, FormInput, SubmitInput, SingInSpan };
