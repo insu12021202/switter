@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useHistory } from "react-router-dom/cjs/react-router-dom.min";
 import { authService, dbService } from "../../fBase";
-import { NweetInput, NweetSubmitBtn } from "../NweetFactory_style";
 import {
   ChaneNameSpan,
   ChangeNameBtn,

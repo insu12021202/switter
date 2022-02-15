@@ -41,9 +41,6 @@ const App = () => {
       ) : (
         "Initializing...."
       )}
-      <Footer>
-        <FooterSpan>&copy; {new Date().getFullYear()} Insu Yeo</FooterSpan>
-      </Footer>
     </>
   );
 };
